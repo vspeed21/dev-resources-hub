@@ -42,5 +42,6 @@ Generate patterns and make your website looks greates
 ## Useful npm libraries
 - [Swiper](https://swiperjs.com)
 
-
+## Authors
+- [vspeed21](https://www.github.com/vspeed21)
 
