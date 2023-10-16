@@ -1,10 +1,10 @@
 {
   "name": "images-optimizer",
   "version": "1.0.0",
-  "description": "convert images to webp, avif & jpg",
+  "description": "convert images to webp & avif format",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build": "npx gulp build"
   },
   "repository": {
     "type": "git",
@@ -23,10 +23,6 @@
   ],
   "author": "Victor Torres",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/vspeed21/image-optimizer/issues"
-  },
-  "homepage": "https://github.com/vspeed21/image-optimizer#readme",
   "devDependencies": {
     "gulp": "^4.0.2",
     "gulp-avif": "^1.1.1",
