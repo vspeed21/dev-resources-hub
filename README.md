@@ -8,6 +8,7 @@ Essential resources for developers. Boost your skills!
 - [Patterns](#patterns)
 - [Colors](#colors)
 - [Useful npm libraries](#useful-npm-libraries)
+- [Graphics](#graphics)
 
 
 ## Images and Illustrations
@@ -41,6 +42,9 @@ Generate patterns and make your website looks greates
 
 ## Useful npm libraries
 - [Swiper](https://swiperjs.com)
+
+## Graphics
+- [ApexCharts](https://apexcharts.com)
 
 ## Authors
 - [vspeed21](https://www.github.com/vspeed21)
